@@ -1,3 +1,6 @@
+> [!NOTE]
+> Deprecated! Use [Acton](https://github.com/ton-blockchain/acton).
+
 # tolkfmt
 
 Code formatter for the Tolk programming language.
